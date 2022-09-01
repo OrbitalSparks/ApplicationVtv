@@ -33,7 +33,7 @@ fun main(){
     else{
         println("vehiculo no habilitado")}
 
-
+    print("2")
 
 
 }
